@@ -15,7 +15,7 @@ body {
     background-color: #6943FF;
     width: 550px;
     display: flex;
-    flex-direction: column;
+    flex-direction: flex;
     justify-content: center;
     align-items: center;
     margin: 30px auto 0px auto;
